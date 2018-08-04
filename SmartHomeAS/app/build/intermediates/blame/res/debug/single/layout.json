@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_carema.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\activity_my_carema.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_dev.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\activity_setup_dev.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seekbar_define_color_style.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\seekbar_define_color_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\esptouch_demo_activity.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\esptouch_demo_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dev_view.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\activity_dev_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\devitem.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\devitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    }
+]

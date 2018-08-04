@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dev_view.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\menu\\dev_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setup_dev.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\menu\\setup_dev.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\welcome.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scan.xml",
+        "source": "C:\\Users\\wanzhongji\\Desktop\\SmartHome1\\app\\src\\main\\res\\menu\\scan.xml"
+    }
+]

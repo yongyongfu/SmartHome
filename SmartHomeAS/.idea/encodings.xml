@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/activity/DevViewActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/activity/LoginActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/activity/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/activity/RegisterActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/activity/ScanActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/activity/SetupDevActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/activity/UDPReThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/activity/WelcomeActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/dao/ConfigDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/dao/DevDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/db/DatabaseHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/device/Dev.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/protocol/CRC16.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/protocol/MSGCMD.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/protocol/MSGCMDTYPE.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/protocol/MSGSTATE.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/protocol/PlProtocol.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/service/Cfg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/service/ConfigService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/service/SocketService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/service/UdpHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/demo/smarthome/tools/FileTools.java" charset="GBK" />
+  </component>
+</project>

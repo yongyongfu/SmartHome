@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_title.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logined_10.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\logined_10.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_loging_11.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\loging_11.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_07.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\scan_07.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lampoff.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\lampoff.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_esptouch_demo_activity.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\esptouch_demo_activity.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pass.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_loging_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\loging_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_red.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\red.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_set_09.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\set_09.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_regist_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\regist_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_carema.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\activity_my_carema.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loging_11.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\loging_11.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loging_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\loging_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_regist_08.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\regist_08.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_control2_01_10.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\control2_01_10.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_light_on.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\light_on.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_regist_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\regist_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\menu_dev_view.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\menu\\dev_view.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lampon.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\lampon.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loging_0311.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\loging_0311.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_light_off.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\light_off.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_seekbar_define_color_style.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\seekbar_define_color_style.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logined_12.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\logined_12.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logined_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\logined_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logined_06.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\logined_06.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_control2_07.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\control2_07.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loging_031.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\loging_031.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_control2_07.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\control2_07.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_weclome.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\weclome.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_control2_01_10.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\control2_01_10.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_regist_15.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\regist_15.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\menu_welcome.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lampon.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\lampon.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loging_11.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\loging_11.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green1.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\green1.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_regist_06.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\regist_06.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_loging_031.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\loging_031.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_set_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\set_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logined_10.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\logined_10.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_devitem.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\devitem.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_set_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\set_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue1.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\blue1.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_scan_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\scan_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loging_111.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\loging_111.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_control2_07.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\control2_07.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green1.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\green1.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\green.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_off.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\off.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\menu_register.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loging_031.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\loging_031.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lampoff.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\lampoff.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_set_09.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\set_09.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_regist_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\regist_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\blue.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_line.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\line.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logined_06.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\logined_06.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_off.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\off.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_scan_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\scan_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_regist_13.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\regist_13.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weclome.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\weclome.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\menu_setup_dev.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\menu\\setup_dev.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\blue.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnclose.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\btnclose.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logined_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\logined_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loging_0311.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\loging_0311.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loging_111.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\loging_111.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_set_09.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\set_09.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sb_bg.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\sb_bg.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_light_on.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\light_on.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lampon.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\lampon.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_regist_06.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\regist_06.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_regist_06.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\regist_06.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pass.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\menu_scan.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\menu\\scan.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_loging_111.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\loging_111.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_line.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\line.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sb_slip_img.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\sb_slip_img.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logined_10.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\logined_10.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logined_06.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\logined_06.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pass.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_on.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\on.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_off.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_control2_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\control2_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green1.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\green1.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scan.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_regist_13.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\regist_13.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_control2_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\control2_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setup_dev.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\activity_setup_dev.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_regist_13.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\regist_13.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_on.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue1.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\blue1.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logined_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\logined_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dev_view.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\activity_dev_view.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logined_12.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\logined_12.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_green.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\green.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_red.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\red.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lampoff.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\lampoff.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loging_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\loging_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue1.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\blue1.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_regist_08.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\regist_08.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_green.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\green.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_light_on.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\light_on.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_regist_08.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\regist_08.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_red.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\red.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\scan_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_light_off.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\light_off.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnopen.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\btnopen.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weclome.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\weclome.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_light_off.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\light_off.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logined_12.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\logined_12.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_set_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\set_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_loging_0311.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\loging_0311.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_regist_15.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\regist_15.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\blue.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sb_slip_bubble.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\sb_slip_bubble.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_scan_07.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\scan_07.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_on.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xxhdpi\\on.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_control2_03.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-hdpi\\control2_03.png"
+    },
+    {
+        "merged": "E:\\mqtt\\app\\SmartHomeAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_regist_15.png.flat",
+        "source": "E:\\mqtt\\app\\SmartHomeAS\\app\\src\\main\\res\\drawable-xhdpi\\regist_15.png"
+    }
+]
